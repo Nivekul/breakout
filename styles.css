@@ -1,0 +1,4 @@
+canvas {
+    -webkit-transform-origin: left top; /* Chrome, Safari, Opera */
+    transform-origin: left top;
+}
